@@ -1,5 +1,7 @@
 # Tokyo lorem
 
+![tokyo-lorem logo](https://raw.githubusercontent.com/naif-sameer/tokyo-lorem/master/src/logo.svg)
+
 ## Documentation
 
 [Docs](https://naif-sameer.github.io/tokyo-lorem/)
