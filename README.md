@@ -1,5 +1,10 @@
 # Tokyo lorem
 
+## Documentation
+
+[docs](https://naif-sameer.github.io/tokyo-lorem/)
+[Demo](https://naif-sameer.github.io/tokyo-lorem/demo/index.html)
+
 🚀 simple and powerful web component
 
 ## quickly start
