@@ -34,7 +34,7 @@
 ## Use web component
 
 ```html
-<tokyo-lorem word="150" language="en" paragraph="2" />
+<tokyo-lorem word="150" language="en" paragraph="2"></tokyo-lorem>
 ```
 
 ## Attributes
