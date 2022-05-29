@@ -2,6 +2,18 @@
 
 🚀 simple and powerful web component
 
+## quickly start
+
+```html
+<script src="https://cdn.jsdelivr.net/gh/naif-sameer/tokyo-lorem@master/dist/lorem-lib.umd.js"></script>
+
+<!-- English lorem -->
+<tokyo-lorem word="150" language="en" paragraph="1"></tokyo-lorem>
+
+<!-- Arabic lorem -->
+<tokyo-lorem word="150" language="ar" paragraph="1"></tokyo-lorem>
+```
+
 ## Install js file
 
 1. Using CDN
