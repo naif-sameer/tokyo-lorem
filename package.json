@@ -1,7 +1,7 @@
 {
   "name": "tokyo-lorem",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.3.0",
   "main": "dist/tokyo-lorem.es.js",
   "exports": {
     ".": "./dist/tokyo-lorem.es.js"

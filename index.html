@@ -5,10 +5,44 @@
     <link rel="icon" type="image/svg+xml" href="/src/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Vite + Lit App</title>
-    <!-- <script type="module" src="/src/tokyo-lorem.ts"></script> -->
-    <script src="https://cdn.jsdelivr.net/gh/naif-sameer/tokyo-lorem@master/dist/lorem-lib.umd.js"></script>
+    <script type="module" src="/src/tokyo-lorem.ts"></script>
+    <!-- <script src="https://cdn.jsdelivr.net/gh/naif-sameer/tokyo-lorem@master/dist/lorem-lib.umd.js"></script> -->
   </head>
+
+  <style>
+    *,
+    *::before,
+    *::after {
+      box-sizing: border-box;
+    }
+
+    body {
+      padding: 0 2rem;
+      line-height: 1.5;
+    }
+
+    .lorem-container {
+      border: 1px solid rgba(0, 0, 0, 0.2);
+      border-radius: 0.25rem;
+      padding: 1rem 2rem;
+    }
+
+    hr {
+      margin: 1rem 0;
+      border-color: transparent;
+      border-bottom-color: rgba(0, 0, 0, 0.2);
+    }
+  </style>
   <body>
-    <tokyo-lorem word="150" language="en" paragraph="2" />
+    <div class="lorem-container">
+      <h2>English lorem</h2>
+      <tokyo-lorem word="150" language="en" paragraph="1"></tokyo-lorem>
+    </div>
+
+    <hr />
+    <div class="lorem-container">
+      <h2 dir="rtl">مولد النص العربى</h2>
+      <tokyo-lorem word="150" language="ar" paragraph="1"></tokyo-lorem>
+    </div>
   </body>
 </html>
