@@ -1,6 +1,6 @@
-# Tokyo lorem
-
-![tokyo-lorem logo](https://raw.githubusercontent.com/naif-sameer/tokyo-lorem/master/src/logo.svg)
+<p align="center">
+  <img width="250" src="https://raw.githubusercontent.com/naif-sameer/tokyo-lorem/master/src/logo.svg" alt="tokyo-lorem logo">
+</p>
 
 ## Documentation
 
