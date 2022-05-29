@@ -2,7 +2,7 @@
 
 ## Documentation
 
-[docs](https://naif-sameer.github.io/tokyo-lorem/)
+[Docs](https://naif-sameer.github.io/tokyo-lorem/)
 
 [Demo](https://naif-sameer.github.io/tokyo-lorem/demo/index.html)
 
