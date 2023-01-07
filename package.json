@@ -1,25 +1,29 @@
 {
-  "name": "tokyo-lorem",
-  "private": true,
-  "version": "0.3.0",
-  "main": "dist/tokyo-lorem.es.js",
-  "exports": {
-    ".": "./dist/tokyo-lorem.es.js"
-  },
-  "types": "types/tokyo-lorem.d.ts",
-  "files": [
-    "dist",
-    "types"
-  ],
-  "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build"
-  },
-  "dependencies": {
-    "lit": "^2.0.2"
-  },
-  "devDependencies": {
-    "vite": "^2.9.9",
-    "typescript": "^4.5.4"
-  }
+    "name": "@naif4web/tokyo-lorem",
+    "private": false,
+    "version": "1.0.0",
+    "main": "dist/tokyo-lorem.es.js",
+    "exports": {
+        ".": "./dist/tokyo-lorem.es.js"
+    },
+    "types": "types/tokyo-lorem.d.ts",
+    "files": [
+        "dist",
+        "types"
+    ],
+    "author": {
+        "name": "Naif Sameer"
+    },
+    "repository": {},
+    "scripts": {
+        "dev": "vite",
+        "build": "tsc && vite build"
+    },
+    "dependencies": {
+        "lit": "^2.0.2"
+    },
+    "devDependencies": {
+        "vite": "^2.9.9",
+        "typescript": "^4.5.4"
+    }
 }
