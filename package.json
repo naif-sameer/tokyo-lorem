@@ -1,7 +1,6 @@
 {
     "name": "@naif4web/tokyo-lorem",
-    "private": false,
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": "dist/tokyo-lorem.es.js",
     "exports": {
         ".": "./dist/tokyo-lorem.es.js"
@@ -14,7 +13,11 @@
     "author": {
         "name": "Naif Sameer"
     },
-    "repository": {},
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/naif-sameer/tokyo-lorem"
+    },
+    "icon": "https://raw.githubusercontent.com/naif-sameer/tokyo-lorem/master/src/logo.svg",
     "packageManager": "pnpm",
     "scripts": {
         "dev": "vite",
