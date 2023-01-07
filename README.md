@@ -34,8 +34,8 @@
 ```html
 <!-- es module build -->
 <script
-  type="module"
-  src="https://cdn.jsdelivr.net/gh/naif-sameer/tokyo-lorem@master/dist/lorem-lib.es.js"
+    type="module"
+    src="https://cdn.jsdelivr.net/gh/naif-sameer/tokyo-lorem@master/dist/lorem-lib.es.js"
 ></script>
 ```
 
