@@ -1,3 +1,5 @@
+# Simple and powerful 🚀 web component to generate lorem text (arabic and english)
+
 <p align="center">
   <img width="250" src="https://raw.githubusercontent.com/naif-sameer/tokyo-lorem/master/src/logo.svg" alt="tokyo-lorem logo">
 </p>
@@ -8,7 +10,7 @@
 
 [Demo](https://naif-sameer.github.io/tokyo-lorem/demo/index.html)
 
-🚀 simple and powerful web component
+
 
 ## quickly start
 
