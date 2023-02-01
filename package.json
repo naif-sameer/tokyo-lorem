@@ -1,6 +1,6 @@
 {
     "name": "@naif4web/tokyo-lorem",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "main": "dist/tokyo-lorem.es.js",
     "exports": {
         ".": "./dist/tokyo-lorem.es.js"
