@@ -10,6 +10,12 @@
         "dist",
         "types"
     ],
+    "keywords": [
+        "lorem",
+        "arabic lorem",
+        "english lorem",
+        "web components"
+    ],
     "author": {
         "name": "Naif Sameer"
     },
